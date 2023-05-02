@@ -1,2 +1,2 @@
 # my-second-test-repo
-Learning...
+Learning
